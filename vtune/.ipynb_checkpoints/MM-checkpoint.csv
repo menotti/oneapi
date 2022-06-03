@@ -1,0 +1,11 @@
+version,platform,execution_time_s
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.468901
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.480798
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.465612
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.473082
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.476702
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.466459
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.461305
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.467056
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.456011
+multiply1,Running on Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.492392

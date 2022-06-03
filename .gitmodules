@@ -1,0 +1,3 @@
+[submodule "intel/oneAPI-samples"]
+	path = intel/oneAPI-samples
+	url = https://github.com/oneapi-src/oneAPI-samples

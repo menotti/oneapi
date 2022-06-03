@@ -1,0 +1,4 @@
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/CMakeFiles/rebuild_cache.dir
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/CMakeFiles/edit_cache.dir
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/CMakeFiles/run.dir
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/CMakeFiles/matrix.dpcpp.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/matrix.cpp
+malloc.h
+-
+iostream
+-
+dpc_common.hpp
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/dpc_common.hpp
+multiply.hpp
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/multiply.hpp
+
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/multiply.cpp
+array
+-
+CL/sycl.hpp
+-
+multiply.hpp
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/multiply.hpp
+
+/home/u122046/menotti/oneapi/vtune/matrix_multiply_vtune/src/multiply.hpp
+CL/sycl.hpp
+-
+

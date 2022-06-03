@@ -1,0 +1,91 @@
+version,platform,execution_time_s
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.472117
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.481414
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.481399
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.468431
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.4722
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.492872
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.461811
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.457033
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.465709
+multiply1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.480515
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.482665
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.473175
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.471838
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.469067
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.459157
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.47284
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.471267
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.472554
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.503084
+multiply1_1,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.452483
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.490078
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.446532
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.46802
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.452114
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.462259
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.469529
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.512372
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.457104
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.466093
+multiply1_2,Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz,0.4524
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.54424
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.539929
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.54072
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.54311
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.544354
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.548828
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.540522
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.541855
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.538129
+multiply1_2,Intel(R) UHD Graphics P630 [0x3e96],0.544145
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.586987
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.585493
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.582478
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.589366
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.582775
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.582341
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.581654
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.580533
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.585159
+multiply1_1,Intel(R) UHD Graphics P630 [0x3e96],0.582822
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.627549
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.628097
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.628612
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.632949
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.631973
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.628714
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.629387
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.627032
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.631169
+multiply1,Intel(R) UHD Graphics P630 [0x3e96],0.625587
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.507188
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.467368
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.446643
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.4544
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.458634
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.462241
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.450351
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.461908
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.482061
+multiply1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.485832
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.448818
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.446161
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.451395
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.456371
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.467286
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.43469
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.446604
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.437745
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.438043
+multiply1_1,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.441689
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.464907
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.448464
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.454949
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.435221
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.447783
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.43652
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.439744
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.430331
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.427119
+multiply1_2,Intel(R) Iris(R) Xe MAX Graphics [0x4905],0.432678

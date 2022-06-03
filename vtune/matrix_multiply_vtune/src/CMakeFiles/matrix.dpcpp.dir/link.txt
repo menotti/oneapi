@@ -1,0 +1,1 @@
+/glob/development-tools/versions/oneapi/2022.2/oneapi/compiler/2022.1.0/linux/bin/dpcpp  -g -O3 -fsycl -Wno-write-strings -w -D_Linux   CMakeFiles/matrix.dpcpp.dir/matrix.cpp.o CMakeFiles/matrix.dpcpp.dir/multiply.cpp.o  -o matrix.dpcpp 
